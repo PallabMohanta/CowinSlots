@@ -1,0 +1,17 @@
+#main-page {
+  padding: 2rem 0;
+  height: 88.4vh;
+}
+
+/* Header */
+.header {
+  text-align: center;
+}
+
+/* Header Description */
+.desc {
+  text-align: center;
+  margin-top: -15px;
+}
+
+/* SearchSection */
